@@ -1,0 +1,8 @@
+user_id,username,course_id,user_state
+1001,Bob Hope,101,1
+1002,John Denver,201,deleted
+1003,Sally Fields Parker,301,AcTive
+1004,,401,1
+2001,Rico Suave,%$#$,active
+Blue, Red, Yellow, Green
+1002,Rico Suave,402,active

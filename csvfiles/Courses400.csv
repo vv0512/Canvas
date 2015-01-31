@@ -1,0 +1,8 @@
+course_state,course_id,course_name
+0,401,How to train monkeys 401
+1,402,How to train dragons 402
+0,403,Advanced animal behaviors 403
+Active,$54,Invalid course
+crud,33,Invalid course
+Active,405,Invalid course,405
+405,Active,Invalid course
